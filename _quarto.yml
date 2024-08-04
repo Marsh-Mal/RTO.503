@@ -1,0 +1,23 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "RTO.503"
+  navbar:
+    left:
+      - href: main_en.qmd
+        text: Call to Action
+      - href: main_fr.qmd
+        text: Appel à l'action
+
+format:
+  html:
+    theme: superhero
+    css: styles.css
+    backgroundcolor:  rgb(8, 84, 0)
+    fontsize: 1.5em
+    linestretch: 1.2
+    toc: true
+
+
