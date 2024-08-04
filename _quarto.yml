@@ -5,9 +5,9 @@ website:
   title: "RTO.503"
   navbar:
     left:
-      - href: main_en.qmd
+      - href: index.qmd
         text: Call to Action
-      - href: main_fr.qmd
+      - href: index_fr.qmd
         text: Appel à l'action
 
 format:
