@@ -2,7 +2,7 @@
 title: "Campagne sur les droits au télétravail"
 ---
 
-<link rel="stylesheet" href=https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css><button onclick="window.location = location.href.replace('en','fr');" class="btn"><i class="fa fa-language"></i> English</button>
+<link rel="stylesheet" href=https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css><button onclick="window.location = location.href.replace('fr','en');" class="btn"><i class="fa fa-language"></i> English</button>
 
 **Ensemble, nous pouvons rester fermes sur cette question du télétravail.**
 
