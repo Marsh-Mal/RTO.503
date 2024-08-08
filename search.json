@@ -1,30 +1,102 @@
 [
   {
-    "objectID": "index_fr.html",
-    "href": "index_fr.html",
-    "title": "Appel à l’action",
+    "objectID": "main_fr.html",
+    "href": "main_fr.html",
+    "title": "Campagne sur les droits au télétravail",
     "section": "",
-    "text": "Ensemble, nous pouvons rester fermes sur cette question du télétravail.\nLe mois de septembre approche, tout comme la mise en œuvre de la directive sur la présence prescrite sur le lieu de travail - 3 jours au bureau et la fin des bureaux permanents pour ceux qui travaillent au bureau à plein temps.\nIl est temps de s’organiser !\nIl est temps de s’opposer au retour forcé au bureau !"
+    "text": "English\nEnsemble, nous pouvons rester fermes sur cette question du télétravail.\nLe mois de septembre approche, tout comme la mise en œuvre de la directive sur la présence prescrite sur le lieu de travail - 3 jours au bureau et la fin des bureaux permanents pour ceux qui travaillent au bureau à plein temps.\nIl est temps de s’organiser !\nIl est temps de s’opposer au retour forcé au bureau !",
+    "crumbs": [
+      "Appel à l'action"
+    ]
   },
   {
-    "objectID": "index_fr.html#voici-ce-que-vous-pouvez-faire-dès-maintenant",
-    "href": "index_fr.html#voici-ce-que-vous-pouvez-faire-dès-maintenant",
-    "title": "Appel à l’action",
+    "objectID": "main_fr.html#voici-ce-que-vous-pouvez-faire-dès-maintenant",
+    "href": "main_fr.html#voici-ce-que-vous-pouvez-faire-dès-maintenant",
+    "title": "Campagne sur les droits au télétravail",
     "section": "Voici ce que vous pouvez faire dès maintenant :",
-    "text": "Voici ce que vous pouvez faire dès maintenant :\n\n1. Rejoindre le Comité\nBien que coprésidé par des membres de l’ACEP, ce comité sur le télétravail est ouvert à tous les employés de Statistique Canada.\nVeuillez remplir ce formulaire pour rejoindre le Comité :\nNous cherchons à rejoindre le plus grand nombre de personnes possible au cours des prochaines semaines afin de bâtir un réseau solide à StatCan.\n\n\n2. Diffuser le message\nPartagez cette page web avec au moins deux amis ou collègues de Statistique Canada que vous savez intéressés par la lutte contre le retour forcé au bureau, en leur demandant de remplir le formulaire.\n\n\n3. Pétition - bientôt disponible !\nRestez à l’écoute des prochaines étapes."
+    "text": "Voici ce que vous pouvez faire dès maintenant :\n\n1. Signez la pétition !\nBientôt disponible !\n\n\n2. Diffuser le message\nPartagez cette page web avec au moins deux amis ou collègues de Statistique Canada, et demandez-leur de signer la pétition.\n\n\n3. Rejoignez la campagne sur les droits au télétravail de Statistique Canada !\nBien que lancée par les membres de l’ACEP, la campagne sur les droits au télétravail est ouverte à tous les employés de Statistique Canada.\nVeuillez remplir ce formulaire pour vous joindre à la campagne\nNous cherchons à rejoindre le plus grand nombre de personnes possible au cours des prochaines semaines afin de bâtir un réseau solide à StatCan.\nRestez à l’écoute des prochaines étapes.",
+    "crumbs": [
+      "Appel à l'action"
+    ]
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Call to Action",
+    "objectID": "main_fr.html#actions-à-venir",
+    "href": "main_fr.html#actions-à-venir",
+    "title": "Campagne sur les droits au télétravail",
+    "section": "Actions à venir :",
+    "text": "Actions à venir :\n\n1. Arrière-plans ‘le télétravail, ça marche’\nCommencez à utiliser l’un de nos arrière-plans ‘le télétravail, ça marche’ dans les équipes Microsoft à partir du 3 septembre.\n\n\n2. Signaler un espace de travail inadapté au bureau\nVous n’avez pas trouvé d’espace de travail approprié au bureau - Prochainement !",
+    "crumbs": [
+      "Appel à l'action"
+    ]
+  },
+  {
+    "objectID": "main_fr.html#contactez-nous",
+    "href": "main_fr.html#contactez-nous",
+    "title": "Campagne sur les droits au télétravail",
+    "section": "Contactez-nous",
+    "text": "Contactez-nous\nVous pouvez contacter vos collègues qui coordonnent cette campagne à l’adresse suivante : rto.loc.503@gmail.com",
+    "crumbs": [
+      "Appel à l'action"
+    ]
+  },
+  {
+    "objectID": "bkgrd_en.html",
+    "href": "bkgrd_en.html",
+    "title": "‘Remote Works’ backgrounds",
     "section": "",
-    "text": "Together, we can stand firm on the issue of telework.\nSeptember approaches and so does the implementation of the Direction on Prescribed Workplace Presence - 3 Days in office and the end of permanent desks for those working in office fulltime.\nIt’s time to get organized!\nIt’s time to push back against the forced return-to-office!"
+    "text": "Français\nBackground 1",
+    "crumbs": [
+      "Backgrounds"
+    ]
   },
   {
-    "objectID": "index.html#here-is-what-you-can-do-right-now",
-    "href": "index.html#here-is-what-you-can-do-right-now",
-    "title": "Call to Action",
+    "objectID": "bkgrd_fr.html",
+    "href": "bkgrd_fr.html",
+    "title": "Arrière-plans ‘le télétravail, ça marche’",
+    "section": "",
+    "text": "English",
+    "crumbs": [
+      "Arrière-plans"
+    ]
+  },
+  {
+    "objectID": "main_en.html",
+    "href": "main_en.html",
+    "title": "StatCan Telework Rights Campaign",
+    "section": "",
+    "text": "Français\nTogether, we can stand firm on the issue of telework.\nSeptember approaches and so does the implementation of the Direction on Prescribed Workplace Presence - 3 Days in office and the end of permanent desks for those working in office fulltime.\nIt’s time to get organized!\nIt’s time to push back against the forced return-to-office!",
+    "crumbs": [
+      "Call to Action"
+    ]
+  },
+  {
+    "objectID": "main_en.html#here-is-what-you-can-do-right-now",
+    "href": "main_en.html#here-is-what-you-can-do-right-now",
+    "title": "StatCan Telework Rights Campaign",
     "section": "Here is what you can do right now:",
-    "text": "Here is what you can do right now:\n\n1. Join the Telework Rights Committee\nWhile co-chaired by CAPE members, this Telework Committee is open to all Statistics Canada employees.\nPlease fill out this form to join the Committee:\nWe are looking to reach as many people as possible in the coming weeks to build a strong network at StatCan.\n\n\n2. Spread the Word\nShare this webpage with at least two friends or colleagues at Statistics Canada that you know are interested in pushing back against the forced return-to-office. Ask them to fill out the form.\n\n\n3. Petition - coming soon!\nStay tuned for next steps."
+    "text": "Here is what you can do right now:\n\n1. Sign the Petition!\nComing soon!\n\n\n2. Spread the Word\nShare this webpage with at least two friends or colleagues at Statistics Canada and ask them to sign the petition!\n\n\n3. Join the Statistics Canada Telework Rights Campaign\nWhile launched by CAPE members, the Telework Rights Campaign is open to all Statistics Canada employees.\nPlease fill out this form to join the Campaign\nWe are looking to reach as many people as possible in the coming weeks to build a strong network at StatCan.\nStay tuned for next steps.",
+    "crumbs": [
+      "Call to Action"
+    ]
+  },
+  {
+    "objectID": "main_en.html#upcoming-actions",
+    "href": "main_en.html#upcoming-actions",
+    "title": "StatCan Telework Rights Campaign",
+    "section": "Upcoming actions:",
+    "text": "Upcoming actions:\n\n1. ‘Remote Works’ backgrounds\nStart using one of our ‘Remote Works’ backgrounds on Microsoft teams starting September 3rd\n\n\n2. Report unsuitable work space in office\nSo you couldn’t fild a suitable work space in office form - Coming soon!",
+    "crumbs": [
+      "Call to Action"
+    ]
+  },
+  {
+    "objectID": "main_en.html#contact-us",
+    "href": "main_en.html#contact-us",
+    "title": "StatCan Telework Rights Campaign",
+    "section": "Contact us",
+    "text": "Contact us\nYou can contact your coworkers who are coordinating this campaign at: rto.loc.503@gmail.com",
+    "crumbs": [
+      "Call to Action"
+    ]
   }
 ]
