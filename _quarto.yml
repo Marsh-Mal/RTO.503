@@ -5,17 +5,17 @@ website:
   sidebar:
     title: StatCan RTO
     logo: /images/RTO.png
+    logo-href: main_en.qmd
     contents:
     - href: main_en.qmd
       text: Call to Action
     - href: main_fr.qmd
       text: Appel à l'action
-
-      
     - href: bkgrd_en.qmd
       text: Backgrounds
     - href: bkgrd_fr.qmd
       text: Arrière-plans
+
 
 format:
   html:
