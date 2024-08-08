@@ -1,0 +1,14 @@
+---
+title: "Arrière-plans 'le télétravail, ça marche'"
+---
+
+<link rel="stylesheet" href=https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css><button onclick="window.location = location.href.replace('en','fr');" class="btn"><i class="fa fa-language"></i> English</button>
+
+
+![](images/FR_1.png)
+
+![](/images/FR_2.png)
+
+![](/images/FR_3.png)
+
+![](/images/FR_4.png)

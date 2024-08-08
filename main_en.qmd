@@ -1,0 +1,48 @@
+---
+title: "StatCan Telework Rights Campaign"
+---
+
+<link rel="stylesheet" href=https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css><button onclick="window.location = location.href.replace('en','fr');" class="btn"><i class="fa fa-language"></i> Français</button>
+
+**Together, we can stand firm on the issue of telework.**
+
+September approaches and so does the implementation of the Direction on Prescribed Workplace Presence - 3 Days in office and the end of permanent desks for those working in office fulltime. 
+
+**It’s time to get organized!**
+
+**It's time to push back against the forced return-to-office!**
+
+## Here is what you can do right now:
+
+### 1. Sign the Petition!
+
+Coming soon!
+
+### 2. Spread the Word
+
+Share this webpage with at least two friends or colleagues at Statistics Canada and ask them to sign the petition!
+
+### 3. Join the Statistics Canada Telework Rights Campaign
+
+While launched by CAPE members, the Telework Rights Campaign is open to all Statistics Canada employees.
+
+[Please fill out this form to join the Campaign](https://docs.google.com/forms/d/e/1FAIpQLScDAxDiH4Hb1j4zuykaBMIzBHtGuhvjCXEn0jVbRPrMXxaDGQ/viewform?usp=sf_link)
+
+We are looking to reach as many people as possible in the coming weeks to build a strong network at StatCan.
+
+Stay tuned for next steps.
+
+## Upcoming actions:
+
+### 1. 'Remote Works' backgrounds
+
+Start using one of our ['Remote Works' backgrounds](bkgrd_en.qmd) on Microsoft teams starting September 3rd
+
+### 2.  Report unsuitable work space in office
+
+So you couldn't fild a suitable work space in office form - Coming soon!
+
+## Contact us
+
+You can contact your coworkers who are coordinating this campaign at: rto.loc.503@gmail.com
+

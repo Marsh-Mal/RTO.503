@@ -2,13 +2,20 @@ project:
   type: website
 
 website:
-  title: "RTO.503"
-  navbar:
-    left:
-      - href: index.qmd
-        text: Call to Action
-      - href: index_fr.qmd
-        text: Appel à l'action
+  sidebar:
+    title: StatCan RTO
+    logo: /images/RTO.png
+    contents:
+    - href: main_en.qmd
+      text: Call to Action
+    - href: main_fr.qmd
+      text: Appel à l'action
+
+      
+    - href: bkgrd_en.qmd
+      text: Backgrounds
+    - href: bkgrd_fr.qmd
+      text: Arrière-plans
 
 format:
   html:

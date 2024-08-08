@@ -1,0 +1,18 @@
+---
+title: "'Remote Works' backgrounds"
+---
+
+<link rel="stylesheet" href=https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css><button onclick="window.location = location.href.replace('en','fr');" class="btn"><i class="fa fa-language"></i> Français</button>
+
+
+
+[Background 1](/images/EN_1.png)
+
+![](/images/EN_1.png)
+
+
+![](/images/EN_2.png)
+
+![](/images/EN_3.png)
+
+![](/images/EN_4.png)
