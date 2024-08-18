@@ -1,10 +1,9 @@
 ---
-title: "Redirect | Redirection"
+title: "Telework Rights Campaign | Campagne sur les droits du télétravail"
 ---
 
-
-Click [here](main_en.qmd) to go back to the StatCan Telework Rights Campaign home page.
+Click [here](main_en.qmd) to access the StatCan Telework Rights Campaign home page in English.
  
 ---
  
-Cliquez [ici](main_fr.qmd) pour retourner à page d'accueil de la campagne de StatCan sur les droits du télétravail.
+Cliquez [ici](main_fr.qmd) pour accéder à la page d'accueil de la campagne de StatCan pour les droits du télétravail en français.
