@@ -6,14 +6,14 @@ title: "'Remote Works' backgrounds"
 
 ::: {.layout-example .column-body}
 
-![{{< downloadthis images/EN_4.png label="Download the CAPE background" >}}](/images/EN_4.png){.lightbox}
+![{{< downloadthis images/EN_4.png dname="CAPE_background.png" label="Download the CAPE background" >}}](/images/EN_4.png){.lightbox}
 
-![{{< downloadthis images/EN_PSAC.png label="Download the PSAC background" >}}](/images/EN_PSAC.png){.lightbox}
+![{{< downloadthis images/EN_PSAC.png dname="PSAC_background.png"  label="Download the PSAC background" >}}](/images/EN_PSAC.png){.lightbox}
 
-![{{< downloadthis images/EN_PIPSC.png label="Download the PIPSC background" >}}](/images/EN_PIPSC.png){.lightbox}
+![{{< downloadthis images/EN_PIPSC.png dname="PIPSC_background.png"  label="Download the PIPSC background" >}}](/images/EN_PIPSC.png){.lightbox}
 
-![{{< downloadthis images/EN_ACFO.png label="Download the ACFO background" >}}](/images/EN_ACFO.png){.lightbox}
+![{{< downloadthis images/EN_ACFO.png dname="ACFO_background.png" label="Download the ACFO background" >}}](/images/EN_ACFO.png){.lightbox}
 
-![{{< downloadthis images/green.png label="Download the generic green background" >}}](/images/green.png){.lightbox}
+![{{< downloadthis images/green.png dname="green_background.png" label="Download the generic green background" >}}](/images/green.png){.lightbox}
 
 :::
