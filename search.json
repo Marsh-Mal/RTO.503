@@ -1,11 +1,23 @@
 [
   {
+    "objectID": "risk_fr.html",
+    "href": "risk_fr.html",
+    "title": "Atténuation des risques",
+    "section": "",
+    "text": "English\nCette page est en cours de construction. Revenez bientôt pour les mises à jour.",
+    "crumbs": [
+      "Français",
+      "Atténuation des risques"
+    ]
+  },
+  {
     "objectID": "main_fr.html",
     "href": "main_fr.html",
     "title": "Campagne sur les droits au télétravail",
     "section": "",
     "text": "English\nEnsemble, nous pouvons rester fermes sur cette question du télétravail.\nLe mois de septembre approche, tout comme la mise en œuvre de la directive sur la présence prescrite sur le lieu de travail - 3 jours au bureau et la fin des bureaux permanents pour ceux qui travaillent au bureau à plein temps.\nIl est temps de s’organiser !\nIl est temps de s’opposer au retour forcé au bureau !",
     "crumbs": [
+      "Français",
       "Appel à l'action"
     ]
   },
@@ -16,6 +28,7 @@
     "section": "Voici ce que vous pouvez faire dès maintenant :",
     "text": "Voici ce que vous pouvez faire dès maintenant :\n\n1. Signez la pétition !\nCliquez ici pour lire et signer la pétition!!\n\n\n2. Diffuser le message\nPartagez cette page web avec au moins deux amis ou collègues de Statistique Canada, et demandez-leur de signer la pétition.\n\n\n3. Rejoignez la campagne sur les droits au télétravail de Statistique Canada !\nBien que lancée par les membres de l’ACEP, la campagne sur les droits au télétravail est ouverte à tous les employés de Statistique Canada.\nVeuillez remplir ce formulaire pour vous joindre à la campagne\nNous cherchons à rejoindre le plus grand nombre de personnes possible au cours des prochaines semaines afin de bâtir un réseau solide à StatCan.\nRestez à l’écoute des prochaines étapes.",
     "crumbs": [
+      "Français",
       "Appel à l'action"
     ]
   },
@@ -26,6 +39,7 @@
     "section": "Actions à venir :",
     "text": "Actions à venir :\n\n1. Arrière-plans ‘le télétravail, ça marche’\nCommencez à utiliser l’un de nos arrière-plans ‘le télétravail, ça marche’ dans les équipes Microsoft à partir du 3 septembre.\n\n\n2. Signaler un espace de travail inadapté au bureau\nVous n’avez pas trouvé d’espace de travail approprié au bureau - Prochainement !",
     "crumbs": [
+      "Français",
       "Appel à l'action"
     ]
   },
@@ -34,25 +48,27 @@
     "href": "main_fr.html#contactez-nous",
     "title": "Campagne sur les droits au télétravail",
     "section": "Contactez-nous",
-    "text": "Contactez-nous\nVous pouvez contacter vos collègues qui coordonnent cette campagne à l’adresse suivante : rto.loc.503@gmail.com",
+    "text": "Contactez-nous\nVous pouvez contacter vos collègues qui coordonnent cette campagne à l’adresse suivante : RTO.LOC.503@gmail.com",
     "crumbs": [
+      "Français",
       "Appel à l'action"
     ]
   },
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Redirect | Redirection",
+    "title": "Telework Rights Campaign | Campagne sur les droits du télétravail",
     "section": "",
-    "text": "Click here to go back to the StatCan Telework Rights Campaign home page.\n\nCliquez ici pour retourner à page d’accueil de la campagne de StatCan sur les droits du télétravail."
+    "text": "Click here to access the StatCan Telework Rights Campaign home page in English.\n\nCliquez ici pour accéder à la page d’accueil de la campagne de StatCan pour les droits du télétravail en français."
   },
   {
     "objectID": "bkgrd_en.html",
     "href": "bkgrd_en.html",
     "title": "‘Remote Works’ backgrounds",
     "section": "",
-    "text": "Français\nBackground 1",
+    "text": "Français\n\n\n\n\n Download the CAPE background \n\n\n\n\n\n Download the PSAC background \n\n\n\n\n\n Download the PIPSC background \n\n\n\n\n\n Download the ACFO background \n\n\n\n\n\n Download the generic green background",
     "crumbs": [
+      "English",
       "Backgrounds"
     ]
   },
@@ -61,8 +77,9 @@
     "href": "bkgrd_fr.html",
     "title": "Arrière-plans ‘le télétravail, ça marche’",
     "section": "",
-    "text": "English",
+    "text": "English\n\n\n\n\n Télécharger l'arrière-plan de l'ACEP \n\n\n\n\n\n Télécharger l'arrière-plan de l'AFPC \n\n\n\n\n\n Télécharger l'arrière-plan de l'IPFPC \n\n\n\n\n\n Télécharger l'arrière-plan de l'ACAF \n\n\n\n\n\n Télécharger l'arrière-plan vert générique",
     "crumbs": [
+      "Français",
       "Arrière-plans"
     ]
   },
@@ -73,6 +90,7 @@
     "section": "",
     "text": "Français\nTogether, we can stand firm on the issue of telework.\nSeptember approaches and so does the implementation of the Direction on Prescribed Workplace Presence - 3 Days in office and the end of permanent desks for those working in office fulltime.\nIt’s time to get organized!\nIt’s time to push back against the forced return-to-office!",
     "crumbs": [
+      "English",
       "Call to Action"
     ]
   },
@@ -83,6 +101,7 @@
     "section": "Here is what you can do right now:",
     "text": "Here is what you can do right now:\n\n1. Sign the Petition!\nClick here to read and sign the petition!!\n\n\n2. Spread the Word\nShare this webpage with at least two friends or colleagues at Statistics Canada and ask them to sign the petition!\n\n\n3. Join the Statistics Canada Telework Rights Campaign\nWhile launched by CAPE members, the Telework Rights Campaign is open to all Statistics Canada employees.\nPlease fill out this form to join the Campaign\nWe are looking to reach as many people as possible in the coming weeks to build a strong network at StatCan.\nStay tuned for next steps.",
     "crumbs": [
+      "English",
       "Call to Action"
     ]
   },
@@ -93,6 +112,7 @@
     "section": "Upcoming actions:",
     "text": "Upcoming actions:\n\n1. ‘Remote Works’ backgrounds\nStart using one of our ‘Remote Works’ backgrounds on Microsoft teams starting September 3rd\n\n\n2. Report unsuitable work space in office\nSo you couldn’t fild a suitable work space in office form - Coming soon!",
     "crumbs": [
+      "English",
       "Call to Action"
     ]
   },
@@ -101,9 +121,43 @@
     "href": "main_en.html#contact-us",
     "title": "StatCan Telework Rights Campaign",
     "section": "Contact us",
-    "text": "Contact us\nYou can contact your coworkers who are coordinating this campaign at: rto.loc.503@gmail.com",
+    "text": "Contact us\nYou can contact your coworkers who are coordinating this campaign at: RTO.LOC.503@gmail.com",
     "crumbs": [
+      "English",
       "Call to Action"
+    ]
+  },
+  {
+    "objectID": "risk_en.html",
+    "href": "risk_en.html",
+    "title": "Risk Mitigation",
+    "section": "",
+    "text": "Français",
+    "crumbs": [
+      "English",
+      "Risk Mitigation"
+    ]
+  },
+  {
+    "objectID": "risk_en.html#general-guidelines",
+    "href": "risk_en.html#general-guidelines",
+    "title": "Risk Mitigation",
+    "section": "General Guidelines",
+    "text": "General Guidelines\nPublic Servants have a chartered right to freedom of speech. However, this is considered in balance with two duties that public servants are bound by:\n\nLoyalty to their employer (Government of Canada)\nImpartiality to the public at large (and the appearance of impartiality)\n\nExpressing ideas that are not in alignment with government policy can in some circumstances be considered to breach these duties. To evaluate and mitigate your risk in taking action, ask yourself the following questions:\n\nWho is seeing the message?\nHow is the message framed?\nWhat is the medium of the message?\nWho is sending the message?\n\n\nWho is seeing the message?\nPublic servants have more leeway in expressing their opinions around colleagues in the public service as opposed to expressing opinions to third party contractors, external clients or the public at large. This is why we recommend taking off campaign buttons, and not using campaign video backgrounds when speaking with external clients or the public. This is also a good reason to avoid social media posts, speaking with the media, or speaking at rallies.\n\n\nHow is the message framed?\nFrame your messaging in support of something as opposed to directly criticising government policy. For example, it is safer to say “I want telework rights!” than to say “I think the policy on prescribed presence in the workplace is incompetent.” (examples are of course for illustrative purposes only).\n\n\nWhat is the medium of the message?\nUsing the employer’s systems, assets and tools is higher risk. This is both because they have some right to dictate how you use their tools, and because they can see your messaging. This would include putting up posters in the office, using your out of office auto-reply message, using work email & MS teams to communicate, and using MS teams video backgrounds. We recommend you not discuss this campaign using work email, and that if you use teams messages you keep the messages simple (ex. “can we meet to chat about RTO on your next break?”). For information on risk mitigation when using MS teams backgrounds see backgrounds.\n\n\nWho is sending the message?\nYour role in the public service affects how your actions affect public perceptions of impartiality. You may be at higher risk if you:\n\nAre very visible publicly\nHave more authority in your role at work\nAre in a role that is tied to the topic (ie. your role is directly tied to implementation of RTO)",
+    "crumbs": [
+      "English",
+      "Risk Mitigation"
+    ]
+  },
+  {
+    "objectID": "risk_en.html#risk-mitigation-by-action",
+    "href": "risk_en.html#risk-mitigation-by-action",
+    "title": "Risk Mitigation",
+    "section": "Risk mitigation by action",
+    "text": "Risk mitigation by action\n\nPetition\nSigning the petition is one of the safest ways you can take part and here is why:\nThis is a majority petition, that means we will not be delivering the petition until a majority have signed it. It’s very difficult for the employer to discipline the majority of their staff.\nFor CAPE members:\nWe will not deliver your signatures until after we either have signatures from the majority of StatCan CAPE members, or signatures from the majority of union members at statcan under the following unions (CAPE, PIPSC, PSAC, & ACFO)\nFor PIPSC, PSAC & ACFO members:\nWhile this petition is being managed by CAPE, the decision as to when to deliver the signatures from PIPSC, PSAC & ACFO members will be up to those who are coordinating from those unions. We will update this page with details soon.\n\n\nSpreading the word\nYou have the right to discuss the petition and other actions with your coworkers. What you don’t have a right to, is doing this during work hours or using the employer’s software. Because of this we recommend you have these discussions with your coworkers verbally (including an MS Teams call), or through non-work channels and on break time or lunch hour other non working times. You can use MS Teams or work email to ask your coworkers if they would be available to chat or call on their next break/lunch to set up these conversations.\n\n\nBackgrounds\nUsing a telework campaign MS teams background is a higher risk action, please consider the following ways to limit your risk:\n\nIf you’re asked to take the background down, do so! It is easier for the employer to discipline you for not following a direction to take it down than to discipline you for putting it up in the first place. If you’re asked to take it down we encourage you to follow up with an email asking for an explanation of why you you were asked to take it down and clarification as to the limitations on what you can use as a teams background going forward and share the responses with us at RTO.LOC.503@gmail.com\nDo not use these backgrounds for meetings with external clients.\nCoordinate with others in your unit and division. It will make a bigger impact if many of you start using the backgrounds at the same time, and there is always more safety in numbers.\nIf you’re asked to take these backgrounds down, or just want a less risky way to take part, consider using the generic green background. Green is the colour the unions have agreed on for the telework rights fight. Imagine the visual impact of a division wide meeting where 70% of people have a solid green background.\n\n\n\nAttending Rallies\nAttending a rally is a very low risk action. Your risk increases if:\n\nYou’re carrying a sign, how much additional risk depends on the content of the sign\nYou give a speech\nYou speak to the media (please don’t speak to the media. All telework rallies should have have a designated media spokesperson who will handle any media questions)\nYou stay at a rally after the messaging becomes problematic (Case law was around public servants at the convoy protests)",
+    "crumbs": [
+      "English",
+      "Risk Mitigation"
     ]
   }
 ]
