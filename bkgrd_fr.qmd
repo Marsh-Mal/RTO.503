@@ -4,11 +4,21 @@ title: "Arrière-plans 'le télétravail, ça marche'"
 
 <link rel="stylesheet" href=https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css><button onclick="window.location = location.href.replace('fr','en');" class="btn"><i class="fa fa-language"></i> English</button>
 
+::: {.layout-example .column-body}
 
-![](images/FR_1.png)
+![{{< downloadthis images/FR_4.png label="Télécharger l'arrière-plan de l'ACEP" >}}
+](/images/FR_4.png){.lightbox}
 
-![](/images/FR_2.png)
+![{{< downloadthis images/FR_PSAC.png label="Télécharger l'arrière-plan de l'AFPC" >}}
+](/images/FR_PSAC.png){.lightbox}
 
-![](/images/FR_3.png)
+![{{< downloadthis images/FR_PIPSC.png label="Télécharger l'arrière-plan de l'IPFPC" >}}
+](/images/FR_PIPSC.png){.lightbox}
 
-![](/images/FR_4.png)
+![{{< downloadthis images/FR_ACFO.png label="Télécharger l'arrière-plan de l'ACAF" >}}
+](/images/FR_ACFO.png){.lightbox}
+
+![{{< downloadthis images/green.png label="Télécharger l'arrière-plan vert générique" >}}
+](/images/green.png){.lightbox}
+
+:::

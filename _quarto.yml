@@ -19,7 +19,7 @@ website:
 
 format:
   html:
-    theme: superhero
+    theme: [superhero, theme.scss]
     css: styles.css
     backgroundcolor:  rgb(8, 84, 0)
     fontsize: 1.5em

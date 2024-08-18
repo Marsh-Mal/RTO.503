@@ -4,15 +4,16 @@ title: "'Remote Works' backgrounds"
 
 <link rel="stylesheet" href=https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css><button onclick="window.location = location.href.replace('en','fr');" class="btn"><i class="fa fa-language"></i> Français</button>
 
+::: {.layout-example .column-body}
 
+![{{< downloadthis images/EN_4.png label="Download the CAPE background" >}}](/images/EN_4.png){.lightbox}
 
-[Background 1](/images/EN_1.png)
+![{{< downloadthis images/EN_PSAC.png label="Download the PSAC background" >}}](/images/EN_PSAC.png){.lightbox}
 
-![](/images/EN_1.png)
+![{{< downloadthis images/EN_PIPSC.png label="Download the PIPSC background" >}}](/images/EN_PIPSC.png){.lightbox}
 
+![{{< downloadthis images/EN_ACFO.png label="Download the ACFO background" >}}](/images/EN_ACFO.png){.lightbox}
 
-![](/images/EN_2.png)
+![{{< downloadthis images/green.png label="Download the generic green background" >}}](/images/green.png){.lightbox}
 
-![](/images/EN_3.png)
-
-![](/images/EN_4.png)
+:::
