@@ -6,19 +6,17 @@ title: "Arrière-plans 'le télétravail, ça marche'"
 
 ::: {.layout-example .column-body}
 
-![{{< downloadthis images/FR_4.png dname="ACEP.png" label="Télécharger l'arrière-plan de l'ACEP" >}}
+![{{< downloadthis images/FR_4.png dname="ACEP" label="Télécharger l'arrière-plan de l'ACEP" >}}
 ](/images/FR_4.png){.lightbox}
 
-![{{< downloadthis images/FR_PSAC.png dname="AFPC.png" label="Télécharger l'arrière-plan de l'AFPC" >}}
+![{{< downloadthis images/FR_PSAC.png dname="AFPC" label="Télécharger l'arrière-plan de l'AFPC" >}}
 ](/images/FR_PSAC.png){.lightbox}
 
-![{{< downloadthis images/FR_PIPSC.png dname="IPFPC.png" label="Télécharger l'arrière-plan de l'IPFPC" >}}
+![{{< downloadthis images/FR_PIPSC.png dname="IPFPC" label="Télécharger l'arrière-plan de l'IPFPC" >}}
 ](/images/FR_PIPSC.png){.lightbox}
 
-![{{< downloadthis images/FR_ACFO.png dname="ACAF.png" label="Télécharger l'arrière-plan de l'ACAF" >}}
-](/images/FR_ACFO.png){.lightbox}
 
-![{{< downloadthis images/green.png dname="Vert.png" label="Télécharger l'arrière-plan vert générique" >}}
+![{{< downloadthis images/green.png dname="Vert" label="Télécharger l'arrière-plan vert générique" >}}
 ](/images/green.png){.lightbox}
 
 :::
