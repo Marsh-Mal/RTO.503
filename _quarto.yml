@@ -20,8 +20,6 @@ website:
       contents:
       - href: main_en.qmd
         text: Call to Action
-      - href: risk_en.qmd
-        text: Risk Mitigation
       - href: bkgrd_en.qmd
         text: Backgrounds
 
@@ -29,8 +27,6 @@ website:
       contents:
       - href: main_fr.qmd
         text: Appel à l'action
-      - href: risk_fr.qmd
-        text: Atténuation des risques
       - href: bkgrd_fr.qmd
         text: Arrière-plans
 
