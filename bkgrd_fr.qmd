@@ -4,17 +4,32 @@ title: "Arrière-plans 'le télétravail, ça marche'"
 
 <link rel="stylesheet" href=https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css><button onclick="window.location = location.href.replace('fr','en');" class="btn"><i class="fa fa-language"></i> English</button>
 
+Veuillez envisager les moyens suivants pour limiter les risques lorsque vous utilisez un arrière-plan Teams pour manifester votre soutien :
+
+1. Si la direction vous demande de retirer l'arrière-plan, faites-le ! 
+Dans ce cas, nous vous encourageons à envoyer un courrier électronique pour demander une explication sur les raisons pour lesquelles on vous a demandé de le retirer et une clarification sur les limites de ce que vous pouvez utiliser comme arrière-plan à l'avenir, et à nous faire part de vos réponses à [RTO.LOC.503@gmail.com](mailto:RTO.LOC.503@gmail.com).
+1. N'utilisez pas ces fonds d'écran pour des réunions avec des clients externes.
+1. Coordonnez-vous avec les autres membres de votre unité et de votre division. L'impact sera plus important si vous êtes nombreux à utiliser les fonds en même temps, et le fait d'agir ensemble réduit le risque individuel.
+1. Si l'on vous demande de retirer l'arrière-plans ‘le télétravail, ça marche’, ou si vous souhaitez simplement participer de manière moins risquée, envisagez d'utiliser [l'arrière-plan vert générique](#larrière-plan-vert-générique). Le vert est la couleur sur laquelle les syndicats se sont mis d'accord pour défendre les droits du télétravail. Imaginez l'impact visuel d'une réunion à l'échelle d'une division où 70 % des personnes ont un arrière-plan vert.
+
 ::: {.layout-example .column-body}
+
+## L'arrière-plan de l'ACEP
 
 ![{{< downloadthis images/FR_4.png dname="ACEP" label="Télécharger l'arrière-plan de l'ACEP" >}}
 ](/images/FR_4.png){.lightbox}
 
+## L'arrière-plan de l'AFPC
+
 ![{{< downloadthis images/FR_PSAC.png dname="AFPC" label="Télécharger l'arrière-plan de l'AFPC" >}}
 ](/images/FR_PSAC.png){.lightbox}
+
+## L'arrière-plan de l'IPFPC
 
 ![{{< downloadthis images/FR_PIPSC.png dname="IPFPC" label="Télécharger l'arrière-plan de l'IPFPC" >}}
 ](/images/FR_PIPSC.png){.lightbox}
 
+## L'arrière-plan vert générique
 
 ![{{< downloadthis images/green.png dname="Vert" label="Télécharger l'arrière-plan vert générique" >}}
 ](/images/green.png){.lightbox}
