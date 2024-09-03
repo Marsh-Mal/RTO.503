@@ -22,6 +22,8 @@ website:
         text: Call to Action
       - href: bkgrd_en.qmd
         text: Backgrounds
+      - href: faq_en.qmd
+        text: FAQ
 
     - title: "Français"
       contents:
@@ -29,6 +31,8 @@ website:
         text: Appel à l'action
       - href: bkgrd_fr.qmd
         text: Arrière-plans
+      - href: faq_fr.qmd
+        text: FAQ
 
 format:
   html:

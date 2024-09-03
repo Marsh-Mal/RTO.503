@@ -1,0 +1,11 @@
+---
+title: "Frequently asked questions (FAQ)"
+---
+
+<link rel="stylesheet" href=https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css><button onclick="window.location = location.href.replace('en','fr');" class="btn"><i class="fa fa-language"></i> Français</button>
+
+Please send your questions to [RTO.LOC.503@gmail.com](mailto:RTO.LOC.503@gmail.com). We will add more info here as more questions come in.
+
+## Should I renew my agreement in myWorkArrangements?
+
+Yes. If you don't have an active telework agreement the employer could insist you work in office 5 days a week. Signing a work arrangement does not limit your ability to request a new telework agreement in future.

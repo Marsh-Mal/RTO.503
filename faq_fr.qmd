@@ -1,0 +1,11 @@
+---
+title: "Foire aux questions (FAQ)"
+---
+
+<link rel="stylesheet" href=https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css><button onclick="window.location = location.href.replace('fr','en');" class="btn"><i class="fa fa-language"></i> English</button>
+
+Veuillez envoyer vos questions à [RTO.LOC.503@gmail.com](mailto:RTO.LOC.503@gmail.com). Nous ajouterons des informations supplémentaires au fur et à mesure que nous recevrons des questions.
+
+## Dois-je renouveler mon entente dans mesRégimesDeTravail ?
+
+Oui. Si vous n'avez pas d'accord de télétravail actif, l'employeur peut insister pour que vous travailliez au bureau 5 jours par semaine. La signature d'un accord de télétravail ne limite pas votre capacité à demander un nouvel accord de télétravail à l'avenir.
