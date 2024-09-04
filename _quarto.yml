@@ -24,6 +24,8 @@ website:
         text: Backgrounds
       - href: faq_en.qmd
         text: FAQ
+      - href: risk_en.qmd
+        text: Risk Mitigation
 
     - title: "Français"
       contents:
@@ -33,6 +35,9 @@ website:
         text: Arrière-plans
       - href: faq_fr.qmd
         text: FAQ
+      - href: risk_fr.qmd
+        text: Atténuation des risques
+
 
 format:
   html:
