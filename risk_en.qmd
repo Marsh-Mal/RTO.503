@@ -6,14 +6,11 @@ title: "Risk Mitigation"
 
 # Union & political activities in the workplace
 
-There are no simple answers to the question of what union or political actions you can safely take in the workplace as a federal public servant. The risk evaluation and mitigation information, which is compiled here, is based on legal battles that unions have fought in the past to defend employees whom the employer has tried to discipline for union or political activities. 
+Check out [this document CAPE has prepared regarding your rights and risks while taking part in union activity at work.](https://www.acep-cape.ca/sites/default/files/2024-08/Union%20Activity%20at%20Work_EN.pdf)
 
-Our employer has a material interest in limiting what we do in this fight for telework rights. <u>**It is in the employer's best interest to spread misinformation, in order to frighten us into inaction.**</u> Even if we legally prove such actions have violated our rights as employees; time will have passed, and we'll be past the important organizing moment. Some departments are already reporting that senior management has been telling staff that signing petitions or wearing buttons is a breach of the values and ethics code. That is false. Unfortunately we should expect to see similar misinformation spread here.
+Our employer has a material interest in limiting what we do in this fight for telework rights. <u>**It is in the employer's best interest to spread misinformation, in order to frighten us into inaction.**</u> Some departments are already reporting that senior management has been telling staff that signing petitions or wearing buttons is a breach of the values and ethics code. That is false. Unfortunately we should expect to see similar misinformation spread here.
 
-Even with the highest risk actions, <u>**risk can be reduced by acting together**</u>. This was well demonstrated when [Ontario education workers won big wins through an “illegal” wildcat strike in 2022](https://www.cbc.ca/news/canada/toronto/ont-government-repeals-education-bill-1.6650584).
-Wildcat strikes are one of the highest risk tools available to workers, and it only worked for them because they were able to act in unity. Note: We are not advocating for a wildcat strike.
-
-All of that being said, <u>**don't take risks without strategic reason!**</u> While the situation can be frustrating at times, keep a cool head and stick to the plan and let's fight this together!
+Remember, <u>**don't take risks without strategic reason!**</u> While the situation can be frustrating at times, keep a cool head and stick to the plan and let's fight this together!
 
 ## General Guidelines
 
@@ -36,11 +33,25 @@ Public servants have more leeway in expressing their opinions around colleagues 
 
 ### How is the message framed?
 
-Frame your messaging in support of something as opposed to directly criticising government policy. For example, it is safer to say “I want telework rights!” than to say “I think the policy on prescribed presence in the workplace is incompetent.” (examples are of course for illustrative purposes only).
+Frame your messaging in support of something as opposed to criticising government policy. Some examples of messages in support of telework are:
+
+- Teleworking works!
+- Telework is a costless way for the employer to meet their ‘duty to accommodate’ the needs of many employees.
+- Telework allows us to have a more diverse workforce.
+
 
 ### What is the medium of the message?
 
-Using the employer’s systems, assets and tools is higher risk. This is both because they have some right to dictate how you use their tools, and because they can see your messaging. This would include putting up posters in the office, using your out of office auto-reply message, using work email & MS teams to communicate, and using MS teams video backgrounds. We recommend you not discuss this campaign using work email, and that if you use teams messages you keep the messages simple (ex. “can we meet to chat about RTO on your next break?”). For information on risk mitigation when using MS teams backgrounds see [backgrounds](#backgrounds).
+Using the employer’s systems, assets and tools is higher risk. This would include: 
+
+- Putting up posters in the office
+- Using your out of office auto-reply message
+- Using work email & MS teams to communicate
+- Using MS teams video backgrounds
+
+This is both because they have some right to dictate how you use their tools, and because they can see your messaging. 
+
+We recommend you not discuss this campaign using work email, and that if you use Teams messages you keep the messages simple (ex. “can we meet to chat about RTO on your next break?”). For information on risk mitigation when using MS teams backgrounds see [backgrounds](#backgrounds).
 
 ### Who is sending the message?
 
@@ -53,9 +64,12 @@ Your role in the public service affects how your actions affect public perceptio
 ## Risk mitigation by action
 
 ### Petition 
+
+You have a right to sign petitions and share information about the union’s campaigns during non-working time (such as during lunch hour and breaks).
+
 Signing the petition is one of the safest ways you can take part and here is why:
 
-This is a majority petition, that means we will not be delivering the petition until a majority have signed it. It's very difficult for the employer to discipline the majority of their staff. 
+This is a majority petition, that means we will not be delivering the petition until a majority have signed it. 
 
 <u>For CAPE members:</u>
 
@@ -67,16 +81,19 @@ While this petition is being managed by CAPE, the decision as to when to deliver
 
 ### Spreading the word
 
-You have the right to discuss the petition and other actions with your coworkers. What you don't have a right to, is doing this during work hours or using the employer's software. Because of this we recommend you have these discussions with your coworkers verbally (including an MS Teams call), or through non-work channels and on break time or lunch hour other non working times. You can use MS Teams or work email to ask your coworkers if they would be available to chat or call on their next break/lunch to set up these conversations.
+You have the right to discuss and share information about the union’s campaigns during non-working time (such as during lunch hour and breaks).
+
+To lower your risk, limit the amount you discuss union campaigns in writing through employer tools (Teams and work email) and especially avoid discussing in group chats. Be sure you keep these conversations to non-working time (such as during lunch hour and breaks). Ideally save longer conversations about union campaigns for when you can discuss verbally (including an MS Teams call), or through non-work channels. You can use MS Teams or work email to ask your coworkers if they would be available to chat or call on their next break/lunch to set up these conversations.
 
 ### Backgrounds 
 
-Using a telework campaign MS teams background is a higher risk action, please consider the following ways to limit your risk:
+Please consider the following ways to limit your risk while using a Teams background to show your support:
 
-1. If you're asked to take the background down, do so! It is easier for the employer to discipline you for not following a direction to take it down than to discipline you for putting it up in the first place. If you're asked to take it down we encourage you to follow up with an email asking for an explanation of why you you were asked to take it down and clarification as to the limitations on what you can use as a teams background going forward and share the responses with us at [RTO.LOC.503@gmail.com](mailto:RTO.LOC.503@gmail.com)
+1. If management asks you to take the background down, do so! 
+If this happens we encourage you to follow up with an email asking for an explanation of why you you were asked to take it down and clarification as to the limitations on what you can use as a Teams background going forward and share the responses with us at [RTO.LOC.503@gmail.com](mailto:RTO.LOC.503@gmail.com)
 1. Do not use these backgrounds for meetings with external clients.
-1. Coordinate with others in your unit and division. It will make a bigger impact if many of you start using the backgrounds at the same time, and there is always more safety in numbers.
-1. If you're asked to take these backgrounds down, or just want a less risky way to take part, consider using the generic green background. Green is the colour the unions have agreed on for the telework rights fight. Imagine the visual impact of a division wide meeting where 70% of people have a solid green background.
+1. Coordinate with others in your unit and division. It will make a bigger impact if many of you start using the backgrounds at the same time, and acting together lowers your individual risk.
+1. If you're asked to take the 'RemoteWorks' background down, or just want a less risky way to take part, consider using the [generic green background](bkgrd_en.qmd#generic-green-background). Green is the colour the unions have agreed on for the telework rights fight. Imagine the visual impact of a division wide meeting where 70% of people have a solid green background.
 
 ### Attending Rallies
 
@@ -84,5 +101,4 @@ Attending a rally is a very low risk action. Your risk increases if:
 
 * You’re carrying a sign, how much additional risk depends on the content of the sign
 * You give a speech
-* You speak to the media (please don't speak to the media. All telework rallies should have have a designated media spokesperson who will handle any media questions)
-* You stay at a rally after the messaging becomes problematic (Case law was around public servants at the convoy protests)
+* You speak to the media (please don't speak to the media. All union organized rallies should have have a designated media spokesperson who will handle any media questions)
