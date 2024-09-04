@@ -1,5 +1,6 @@
 ---
 title: "Foire aux questions (FAQ)"
+navbar: false
 ---
 
 <link rel="stylesheet" href=https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css><button onclick="window.location = location.href.replace('fr','en');" class="btn"><i class="fa fa-language"></i> English</button>

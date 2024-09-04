@@ -1,5 +1,6 @@
 ---
 title: "Atténuation des risques"
+navbar: false
 ---
 
 <button onclick="window.location = location.href.replace('fr','en');" class="btn"><i class="fa fa-language"></i> English</button>

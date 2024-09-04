@@ -1,7 +1,6 @@
 ---
 title: "StatCan Telework Rights Campaign"
-aliases:
-  - .html
+navbar: false
 ---
 
 <link rel="stylesheet" href=https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css><button onclick="window.location = location.href.replace('en','fr');" class="btn"><i class="fa fa-language"></i> Français</button>
@@ -20,9 +19,13 @@ September approaches and so does the implementation of the Direction on Prescrib
 
 [Click here to read and sign the petition!!](https://docs.google.com/forms/d/e/1FAIpQLSc941-n5h6onnS_EVO-385bY1M_QvIv_UNhUeKMjeap1Bgu7g/viewform)
 
+For more information on risk, see [Petition risk mitigation](risk_en.qmd#petition)
+
 ### 2. Spread the Word
 
 Share this webpage with at least two friends or colleagues at Statistics Canada and ask them to sign the petition!
+
+For information on mitigating risk while discussing union activities in the workplace see [risk mitgation while spreading the word](risk_en.qmd#spreading-the-word)
 
 ### 3. Join the Statistics Canada Telework Rights Campaign
 

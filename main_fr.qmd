@@ -1,5 +1,6 @@
 ---
 title: "Campagne sur les droits au télétravail"
+navbar: false
 ---
 
 <link rel="stylesheet" href=https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css><button onclick="window.location = location.href.replace('fr','en');" class="btn"><i class="fa fa-language"></i> English</button>
@@ -18,9 +19,13 @@ Le mois de septembre approche, tout comme la mise en œuvre de la directive sur 
 
 [Cliquez ici pour lire et signer la pétition!!](https://docs.google.com/forms/d/e/1FAIpQLSc941-n5h6onnS_EVO-385bY1M_QvIv_UNhUeKMjeap1Bgu7g/viewform)
 
+Pour plus d'informations sur la manière dont nous atténuons les risques liés à cette pétition, voir [Atténuation des risques liés à la pétition](risk_fr.qmd#pétition)
+
 ### 2. Diffuser le message
 
 Partagez cette page web avec au moins deux amis ou collègues de Statistique Canada, et demandez-leur de signer la pétition.
+
+Pour plus d'informations sur l'atténuation des risques lors de la discussion des activités syndicales sur le lieu de travail, voir [atténuation des risques lors de la diffusion de l'information](risk_fr.qmd#faire-passer-le-message)
 
 ### 3. Rejoignez la campagne sur les droits au télétravail de Statistique Canada !
 
