@@ -37,7 +37,12 @@ website:
         text: FAQ
       - href: risk_fr.qmd
         text: Atténuation des risques
-
+  page-footer: 
+    center: 
+      - href: main_en.qmd#contact-us
+        text: Contact us
+      - href: main_fr.qmd#contactez-nous
+        text: Contactez-nous
 
 format:
   html:
