@@ -6,8 +6,6 @@ navbar: false
 <button onclick="window.location = location.href.replace('fr','en');" class="btn"><i class="fa fa-language"></i> English</button>
 
 
-<link rel="stylesheet" href=https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css><button onclick="window.location = location.href.replace('fr','en');" class="btn"><i class="fa fa-language"></i> English</button>
-
 Cette page est en cours de construction. Revenez bientôt pour les mises à jour.
 
 Consultez [ce document préparé par l'ACEP concernant vos droits et les risques liés à la participation à une activité syndicale au travail](https://www.acep-cape.ca/sites/default/files/2024-08/Union%20Activity%20At%20Work_FR.pdf)
