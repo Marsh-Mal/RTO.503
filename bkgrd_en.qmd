@@ -5,13 +5,15 @@ navbar: false
 
 <link rel="stylesheet" href=https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css><button onclick="window.location = location.href.replace('en','fr');" class="btn"><i class="fa fa-language"></i> Français</button>
 
+Green is the colour the unions have agreed on for the telework rights fight. Imagine the visual impact of a division wide meeting where 70% of people have  green backgrounds.
+
 Please consider the following ways to limit your risk while using a Teams background to show your support:
 
 1. If management asks you to take the background down, do so! 
-If this happens we encourage you to follow up with an email asking for an explanation of why you you were asked to take it down and clarification as to the limitations on what you can use as a Teams background going forward and share the responses with us at [RTO.LOC.503@gmail.com](mailto:RTO.LOC.503@gmail.com)
+If this happens we encourage you to follow up with an email asking for an explanation of why you you were asked to take it down and share the responses with us at [RTO.LOC.503@gmail.com](mailto:RTO.LOC.503@gmail.com)
 1. Do not use these backgrounds for meetings with external clients.
-1. Coordinate with others in your unit and division. It will make a bigger impact if many of you start using the backgrounds at the same time, and acting together lowers your individual risk.
-1. If you're asked to take the 'RemoteWorks' background down, or just want a less risky way to take part, consider using the [generic green background](#generic-green-background). Green is the colour the unions have agreed on for the telework rights fight. Imagine the visual impact of a division wide meeting where 70% of people have a solid green background.
+1. Coordinate with others in your unit and division to start using the backgrounds at the same time. 
+1. If you're asked to take the 'RemoteWorks' background down, or just want a less flashy way to take part, consider using the [generic green background](#generic-green-background).
 
 ::: {.layout-example .column-body}
 
