@@ -30,6 +30,11 @@ Dans ce cas, nous vous encourageons à envoyer un courrier électronique pour de
 ![{{< downloadthis images/FR_PIPSC.png dname="IPFPC" label="Télécharger l'arrière-plan de l'IPFPC" >}}
 ](/images/FR_PIPSC.png){.lightbox}
 
+## L'arrière-plan de l'ACAF
+
+![{{< downloadthis images/ACFO.png dname="ACAF.png" label="Télécharger l'arrière-plan de l'ACAF" >}}
+](/images/ACFO.png){.lightbox}
+
 ## L'arrière-plan vert générique
 
 ![{{< downloadthis images/green.png dname="Vert" label="Télécharger l'arrière-plan vert générique" >}}
