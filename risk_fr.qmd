@@ -7,15 +7,64 @@ lang: fr
 <button onclick="window.location = location.href.replace('fr','en');" class="btn"><i class="fa fa-language"></i> English</button>
 
 
-Cette page est en cours de construction. Revenez bientôt pour les mises à jour.
+# Activités syndicales et politiques sur le lieu de travail
 
 Consultez [ce document préparé par l'ACEP concernant vos droits et les risques liés à la participation à une activité syndicale au travail](https://www.acep-cape.ca/sites/default/files/2024-08/Union%20Activity%20At%20Work_FR.pdf)
+
+Notre employeur a un intérêt matériel à limiter ce que nous faisons dans cette lutte pour le droit au télétravail. <u>**Il a tout intérêt à diffuser des informations erronées afin de nous effrayer et de nous pousser à l'inaction.**</u> Certains ministères rapportent déjà que la direction générale a dit au personnel que signer des pétitions ou porter des écussons constituait une violation du code des valeurs et de l'éthique. C'est faux. Malheureusement, il faut s'attendre à ce que des informations erronées similaires se répandent ici.
+N'oubliez pas <u>**qu'il ne faut pas prendre de risques sans raison stratégique !**</u> Bien que la situation soit parfois frustrante, gardez la tête froide, tenez-vous-en au plan et luttons ensemble !
+
+## Lignes directrices générales
+
+Les fonctionnaires ont un droit reconnu à la liberté d'expression. Toutefois, ce droit doit être mis en balance avec les deux devoirs qui incombent aux fonctionnaires :
+
+* La loyauté envers leur employeur (le Gouvernement du Canada)
+* L'impartialité envers le grand public (et l'apparence d'impartialité)
+
+L'expression d'idées qui ne sont pas conformes à la politique du gouvernement peut, dans certaines circonstances, être considérée comme une violation de ces obligations. Pour évaluer et atténuer le risque que vous prenez en agissant, posez-vous les questions suivantes :
+
+* Qui voit le message ?
+* Comment le message est-il encadré ?
+* Quel est le support du message ?
+* Qui envoie le message ?
+
+### Qui voit le message ?
+
+Les fonctionnaires disposent d'une plus grande marge de manœuvre pour exprimer leurs opinions auprès de leurs collègues du service public qu'auprès de tiers contractants, de clients externes ou du grand public. C'est pourquoi nous recommandons d'enlever les écussons de campagne et de ne pas utiliser les arrière-plans des vidéos de campagne lorsque l'on s'adresse à des clients externes ou au public. C'est également une bonne raison d'éviter de publier des messages sur les médias sociaux, de s'adresser aux médias ou de prendre la parole lors de rassemblements.
+
+### Comment le message est-il formulé ?
+
+Formulez votre message en faveur de quelque chose plutôt que de critiquer la politique gouvernementale. Voici quelques exemples de messages en faveur du télétravail :
+
+* Le télétravail, ça fonctionne !
+* Le télétravail est un moyen peu coûteux pour l'employeur de répondre à son « obligation d'adaptation » aux besoins de nombreux employé.e.s.
+* Le télétravail nous permet d'avoir une main-d'œuvre plus diversifiée.
+
+### Quel est le support du message ?
+
+L'utilisation des systèmes, des biens et des outils de l'employeur présente un risque plus élevé. Il s'agit notamment de
+
+- La pose d'affiches dans le bureau
+- L'utilisation d'un message de réponse automatique en dehors du bureau
+- L'utilisation du courrier électronique professionnel et de MS teams pour communiquer
+- Utiliser les arrière-plans vidéo de MS teams
+
+La raison en est qu'ils ont le droit de dicter la manière dont vous utilisez leurs outils et qu'ils peuvent voir vos messages.
+Nous vous recommandons de ne pas discuter de cette campagne en utilisant le courrier électronique professionnel et, si vous utilisez les messages de Teams, de vous en tenir à des messages simples (par exemple, « pouvons-nous nous rencontrer pour discuter de la RTO lors de votre prochaine pause ? »). Pour plus d'informations sur l'atténuation des risques lors de l'utilisation des arrière-plans de MS teams, voir les [arrière-plans](#arrière-plans).
+
+### Qui envoie le message ?
+
+Votre rôle dans le service public influe sur la manière dont vos actions affectent la perception de l'impartialité par le public. Le risque est plus élevé si vous :
+
+* êtes très visible publiquement
+* avez plus d'autorité dans votre rôle au travail
+* votre rôle est lié au sujet (c'est-à-dire que votre rôle est directement lié à la mise en œuvre de la RAB).
 
 ## Atténuation des risques par l'action
 
 ### Pétition 
 
-Vous avez le droit de signer des pétitions et de partager des informations sur les campagnes du syndicat pendant le temps libre (par exemple, pendant l'heure du déjeuner et les pauses).
+Vous avez le droit de signer des pétitions et de partager des informations sur les campagnes du syndicat pendant vos temps libre (par exemple, pendant l’heure du dîner et les pauses).
 
 Signer la pétition est l'un des moyens les plus sûrs de participer, et voici pourquoi :
 
@@ -31,9 +80,9 @@ Bien que cette pétition soit gérée par l'ACEP, la décision quant au moment d
 
 ### Faire passer le message
 
-Vous avez le droit de discuter et de partager des informations sur les campagnes du syndicat en dehors des heures de travail (par exemple pendant l'heure du déjeuner et les pauses).
+Vous avez le droit de discuter et de partager des informations sur les campagnes du syndicat en dehors des heures de travail (par exemple pendant l’heure du dîner et les pauses).
 
-Pour réduire les risques, limitez le nombre de discussions écrites sur les campagnes syndicales via les outils de l'employeur (MS Teams et courrier électronique professionnel) et évitez tout particulièrement les discussions dans les groupes de discussion. Veillez à ce que ces conversations aient lieu en dehors des heures de travail (par exemple pendant l'heure du déjeuner et les pauses). Dans l'idéal, réservez les conversations plus longues sur les campagnes syndicales aux moments où vous pouvez en discuter verbalement (notamment lors d'un appel MS Teams) ou par le biais de canaux non professionnels. Vous pouvez utiliser MS Teams ou le courrier électronique professionnel pour demander à vos collègues s'ils seraient disponibles pour chatter ou appeler lors de leur prochaine pause/déjeuner afin d'organiser ces conversations.
+Pour réduire les risques, limitez le nombre de discussions écrites sur les campagnes syndicales via les outils de l'employeur (MS Teams et courrier électronique professionnel) et évitez tout particulièrement les discussions dans les groupes de discussion. Veillez à ce que ces conversations aient lieu en dehors des heures de travail (par exemple pendant l’heure du dîner et les pauses). Dans l'idéal, réservez les conversations plus longues sur les campagnes syndicales aux moments où vous pouvez en discuter verbalement (notamment lors d'un appel MS Teams) ou par le biais de canaux non professionnels. Vous pouvez utiliser MS Teams ou le courrier électronique professionnel pour demander à vos collègues s’ils seraient disponibles pour clavarder ou appeler lors de leur prochaine pause/dîner afin d’organiser ces conversations.
 
 ### Arrière-plans
 
@@ -43,11 +92,11 @@ Veuillez envisager les moyens suivants pour limiter les risques lorsque vous uti
 Dans ce cas, nous vous encourageons à envoyer un courrier électronique pour demander une explication sur les raisons pour lesquelles on vous a demandé de le retirer et une clarification sur les limites de ce que vous pouvez utiliser comme arrière-plan à l'avenir, et à nous faire part de vos réponses à [RTO.LOC.503@gmail.com](mailto:RTO.LOC.503@gmail.com).
 1. N'utilisez pas ces fonds d'écran pour des réunions avec des clients externes.
 1. Coordonnez-vous avec les autres membres de votre unité et de votre division. L'impact sera plus important si vous êtes nombreux à utiliser les fonds en même temps, et le fait d'agir ensemble réduit le risque individuel.
-1. Si l'on vous demande de retirer l'arrière-plans ‘Ça travaille à distance !’, ou si vous souhaitez simplement participer de manière moins risquée, envisagez d'utiliser [l'arrière-plan vert générique](bkgrd_fr.qmd#larrière-plan-vert-générique). Le vert est la couleur sur laquelle les syndicats se sont mis d'accord pour défendre les droits du télétravail. Imaginez l'impact visuel d'une réunion à l'échelle d'une division où 70 % des personnes ont un arrière-plan vert.
+1. Si l’on vous demande de retirer l’arrière-plan “Ça travaille à distance”, ou si vous souhaitez simplement participer de manière moins risquée, envisagez d'utiliser [l'arrière-plan vert générique](bkgrd_fr.qmd#larrière-plan-vert-générique). Le vert est la couleur sur laquelle les syndicats se sont mis d'accord pour défendre le droit du télétravail. Imaginez l'impact visuel d'une réunion à l'échelle d'une division où 70 % des personnes ont un arrière-plan vert.
 
-### Participer à un rallye
+### Participer à un rassemblement
 
-Participer à un rallye est une action à très faible risque. Le risque augmente si :
+Participer à un rassemblement est une action à très faible risque. Le risque augmente si :
 
 * Vous portez une pancarte, le degré de risque supplémentaire dépendant du contenu de la pancarte.
 * Vous prononcez un discours
