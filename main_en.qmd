@@ -42,7 +42,7 @@ Stay tuned for next steps.
 
 ### 1. 'Remote Works' backgrounds
 
-Start using one of our ['Remote Works' backgrounds](bkgrd_en.qmd) on Microsoft teams starting September 3rd
+Start using one of our ['Remote Works' backgrounds](bkgrd_en.qmd) on Microsoft Teams.
 
 ### 2.  Report unsuitable work space in office
 
