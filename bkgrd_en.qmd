@@ -14,7 +14,7 @@ Please consider the following ways to limit your risk while using a Teams backgr
 If this happens we encourage you to follow up with an email asking for an explanation of why you you were asked to take it down and share the responses with us at [RTO.LOC.503@gmail.com](mailto:RTO.LOC.503@gmail.com)
 1. Do not use these backgrounds for meetings with external clients.
 1. Coordinate with others in your unit and division to start using the backgrounds at the same time. 
-1. If you're asked to take the 'RemoteWorks' background down, or just want a less flashy way to take part, consider using the [generic green background](#generic-green-background).
+1. If you're asked to take the 'RemoteWorks' background down, or just want a less flashy way to take part, consider using the [generic green background.](#generic-green-background).
 
 ::: {.layout-example .column-body}
 

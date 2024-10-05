@@ -1,5 +1,5 @@
 ---
-title: "Arrière-plans 'Ça travaille à distance !'"
+title: "Arrière-plans 'Ça travaille à distance'"
 navbar: false
 lang: fr
 ---
@@ -14,7 +14,7 @@ Veuillez envisager les moyens suivants pour limiter les risques lorsque vous uti
 Dans ce cas, nous vous encourageons à envoyer un courriel pour demander une explication sur les raisons pour lesquelles on vous a demandé de l'enlever et à partager les réponses avec nous à l'adresse [RTO.LOC.503@gmail.com](mailto:RTO.LOC.503@gmail.com).
 1. N'utilisez pas ces fonds d'écran pour des réunions avec des clients externes.
 1. Coordonnez-vous avec les autres membres de votre unité et de votre division pour commencer à utiliser les arrière-plans en même temps. 
-1. Si l'on vous demande de retirer l'arrière-plans ‘Ça travaille à distance !’, ou si vous souhaitez simplement participer de manière moins voyante, envisagez d'utiliser [l'arrière-plan vert générique](#larrière-plan-vert-générique). 
+1. Si l'on vous demande de retirer l'arrière-plans ‘Ça travaille à distance’, ou si vous souhaitez simplement participer de manière moins voyante, envisagez d'utiliser [l'arrière-plan vert générique.](#larrière-plan-vert-générique). 
 
 ::: {.layout-example .column-body}
 
