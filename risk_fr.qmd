@@ -42,7 +42,7 @@ Veuillez envisager les moyens suivants pour limiter les risques lorsque vous uti
 Dans ce cas, nous vous encourageons à envoyer un courrier électronique pour demander une explication sur les raisons pour lesquelles on vous a demandé de le retirer et une clarification sur les limites de ce que vous pouvez utiliser comme arrière-plan à l'avenir, et à nous faire part de vos réponses à [RTO.LOC.503@gmail.com](mailto:RTO.LOC.503@gmail.com).
 1. N'utilisez pas ces fonds d'écran pour des réunions avec des clients externes.
 1. Coordonnez-vous avec les autres membres de votre unité et de votre division. L'impact sera plus important si vous êtes nombreux à utiliser les fonds en même temps, et le fait d'agir ensemble réduit le risque individuel.
-1. Si l'on vous demande de retirer l'arrière-plans ‘le télétravail, ça marche’, ou si vous souhaitez simplement participer de manière moins risquée, envisagez d'utiliser [l'arrière-plan vert générique](bkgrd_fr.qmd#larrière-plan-vert-générique). Le vert est la couleur sur laquelle les syndicats se sont mis d'accord pour défendre les droits du télétravail. Imaginez l'impact visuel d'une réunion à l'échelle d'une division où 70 % des personnes ont un arrière-plan vert.
+1. Si l'on vous demande de retirer l'arrière-plans ‘Ça travaille à distance !’, ou si vous souhaitez simplement participer de manière moins risquée, envisagez d'utiliser [l'arrière-plan vert générique](bkgrd_fr.qmd#larrière-plan-vert-générique). Le vert est la couleur sur laquelle les syndicats se sont mis d'accord pour défendre les droits du télétravail. Imaginez l'impact visuel d'une réunion à l'échelle d'une division où 70 % des personnes ont un arrière-plan vert.
 
 ### Participer à un rallye
 

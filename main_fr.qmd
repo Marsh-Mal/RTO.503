@@ -41,9 +41,9 @@ Restez à l’écoute des prochaines étapes.
 
 ## Actions à venir :
 
-### 1. Arrière-plans 'le télétravail, ça marche'
+### 1. Arrière-plans 'Ça travaille à distance !'
 
-Commencez à utiliser l'un de nos [arrière-plans 'le télétravail, ça marche'](bkgrd_fr.qmd) dans les équipes Microsoft à partir du 3 septembre.
+Commencez à utiliser l'un de nos [arrière-plans 'Ça travaille à distance !'](bkgrd_fr.qmd) dans les équipes Microsoft à partir du 3 septembre.
 
 ### 2.  Signaler un espace de travail inadapté au bureau
 
