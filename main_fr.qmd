@@ -1,5 +1,5 @@
 ---
-title: "Campagne sur les droits au télétravail"
+title: "Campagne sur le droit au télétravail"
 navbar: false
 ---
 
@@ -29,9 +29,9 @@ Partagez cette page web avec au moins deux amis ou collègues de Statistique Can
 
 Pour plus d'informations sur l'atténuation des risques lors de la discussion des activités syndicales sur le lieu de travail, voir [atténuation des risques lors de la diffusion de l'information](risk_fr.qmd#faire-passer-le-message)
 
-### 3. Rejoignez la campagne sur les droits au télétravail de Statistique Canada !
+### 3. Rejoignez la campagne sur le droit au télétravail de Statistique Canada !
 
-Bien que lancée par les membres de l'ACEP, la campagne sur les droits au télétravail est ouverte à tous les employés de Statistique Canada.
+Bien que lancée par les membres de l'ACEP, la campagne sur le droit au télétravail est ouverte à tous les employés de Statistique Canada.
 
 [Veuillez remplir ce formulaire pour vous joindre à la campagne](https://docs.google.com/forms/d/e/1FAIpQLScDAxDiH4Hb1j4zuykaBMIzBHtGuhvjCXEn0jVbRPrMXxaDGQ/viewform?usp=sf_link)
 
