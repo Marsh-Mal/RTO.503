@@ -4,14 +4,15 @@ navbar: false
 lang: fr
 ---
 
-<button onclick="window.location = location.href.replace('fr','en');" class="btn"><i class="fa fa-language"></i> English</button>
+<link rel="stylesheet" href=https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css><button onclick="window.location = location.href.replace('fr','en');" class="btn"><i class="fa fa-language"></i> English</button>
 
 
 # Activités syndicales et politiques sur le lieu de travail
 
 Consultez [ce document préparé par l'ACEP concernant vos droits et les risques liés à la participation à une activité syndicale au travail](https://www.acep-cape.ca/sites/default/files/2024-08/Union%20Activity%20At%20Work_FR.pdf)
 
-Notre employeur a un intérêt matériel à limiter ce que nous faisons dans cette lutte pour le droit au télétravail. <u>**Il a tout intérêt à diffuser des informations erronées afin de nous effrayer et de nous pousser à l'inaction.**</u> Certains ministères rapportent déjà que la direction générale a dit au personnel que signer des pétitions ou porter des écussons constituait une violation du code des valeurs et de l'éthique. C'est faux. Malheureusement, il faut s'attendre à ce que des informations erronées similaires se répandent ici.
+<u>**Il est essentiel que nous connaissions nos droits au cas où l'employeur de nous pousser à l'inaction par des informations erronées.**</u> Les membres de l'ACEP rapportent déjà que la direction générale d'autres départements a dit au personnel que signer des pétitions ou porter des écussons constituait une violation du code des valeurs et de l'éthique. **C'est faux.** Malheureusement, il faut se préparer à ce que des informations erronées similaires se répandent ici.
+
 N'oubliez pas <u>**qu'il ne faut pas prendre de risques sans raison stratégique !**</u> Bien que la situation soit parfois frustrante, gardez la tête froide, tenez-vous-en au plan et luttons ensemble !
 
 ## Lignes directrices générales
